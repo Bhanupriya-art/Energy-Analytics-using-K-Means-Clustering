@@ -1,6 +1,6 @@
 # Global Energy Analytics – Clustering & Visualization
 
-This project focuses on analyzing **global energy data** using **PySpark’s K-Means clustering** to uncover hidden patterns and groupings across multiple energy-related metrics. The clustered results are further visualized through an **interactive Tableau dashboard** for better interpretation and decision-making.
+This project focuses on analyzing **global energy data** using **Machine Learning Algorithm(K means)** to uncover hidden patterns and groupings across multiple energy-related metrics. The clustered results are further visualized through an **interactive Tableau dashboard** for better interpretation and decision-making.
 
 ---
 
